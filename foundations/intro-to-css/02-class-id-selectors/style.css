@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.rb{
+    background-color: rgb(255,153,153);
+}
+
+.rb.fs{
+    font-size: 24px;
+}
+
+#blueish{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#greenish{
+    background-color: rgb(0, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
